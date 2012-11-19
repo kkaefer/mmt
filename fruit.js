@@ -1,5 +1,6 @@
 function Fruit(weight) {
     this.weight = weight;
+    
 }
 
 Fruit.prototype.calories = 30;

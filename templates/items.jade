@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    ul
+        each item in items
+            li
+                a(href='/item/' + item.id)= item.title

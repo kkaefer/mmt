@@ -1,0 +1,9 @@
+{
+    "name": "mmt",
+    "version": "0.0.1",
+
+    "dependencies": {
+        "jade": "0.x",
+        "async": "0.x"
+    }
+}

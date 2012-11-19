@@ -9,3 +9,6 @@ util.inherits(Banana, Fruit);
 Banana.prototype.calories = 10;
 
 module.exports = Banana;
+
+
+new Banana();
